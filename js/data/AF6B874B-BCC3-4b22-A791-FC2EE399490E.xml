@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.3:1", "", "Views", "EARoot/EA3/EA1100.html", "175.png", "13", "0", "", "Logical diagram0","{0FC52BCC-2A91-4a2b-89D8-C021C04E5BB8}");
+tocTab[tocTab.length] = new Array("0.3:2", "", "View Dependency", "EARoot/EA3/EA1102.html", "175.png", "14", "0", "", "Logical diagram0","{919CACE1-A8D8-4ca5-AAB5-1F4291FE87DE}");
+tocTab[tocTab.length] = new Array("0.3:3", "", "V_OBJECTS_IMPACTED_BY_USERS", "EARoot/EA3/EA1105.html", "8C9E6706-8_view.png", "E1090", "0", "", "Class0","{62C278D0-2473-4802-BC9C-2B1C4A8E2087}");
+tocTab[tocTab.length] = new Array("0.3:4", "", "VIEW_A", "EARoot/EA3/EA1106.html", "8C9E6706-8_view.png", "E24", "0", "", "Class0","{FF13C7F4-EA3F-476d-9EAF-E25331A9968C}");
