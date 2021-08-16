@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0:1", "", "APS_REFERENTIAL", "EARoot/EA1.html", "188.png", "93", "0", "", "Custom diagram0","{2637EF81-2427-4c76-B907-6B9B4702DAF7}");
-tocTab[tocTab.length] = new Array("0:2", "", "APS_REFERENTIAL Diagram", "EARoot/EA6.html", "5.png", "E1239", "0", "", "Class0","{B3C90ED1-116E-4af8-B877-B1ECBFB8133C}");
-tocTab[tocTab.length] = new Array("0:3", "", "Class O_ADAP", "EARoot/EA7.html", "5.png", "E1240", "0", "", "Class0","{79561EAA-CC66-44c8-AA7E-DED456320673}");
-tocTab[tocTab.length] = new Array("0:4", "", "Class O_ADF", "EARoot/EA8.html", "5.png", "E1241", "0", "", "Class0","{CDAA25A3-FB20-46a9-8B22-383818466775}");
-tocTab[tocTab.length] = new Array("0:5", "", "O_FIN", "EARoot/EA9.html", "5.png", "E1242", "0", "", "Class0","{350708CA-EBA7-459c-B79B-4D1E895C8507}");
-tocTab[tocTab.length] = new Array("0.1", "1", "I532_P_CORE", "EARoot/EA1/EA19.html", "4.png", "", "", "{B732C7DF-43FD-45ef-BF0D-538E6EB4A62D}", "Package");
