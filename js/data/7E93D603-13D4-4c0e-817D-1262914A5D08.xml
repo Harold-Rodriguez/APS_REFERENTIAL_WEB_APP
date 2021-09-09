@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.3.1:1", "", "Links Table O_ADFASSY", "EARoot/EA1/EA1/EA3/EA1/EA1706.html", "82.png", "E3859", "0", "", "Artifact0","{85A10FB6-DD15-437d-B7A3-113C0EB46A28}");
-tocTab[tocTab.length] = new Array("0.1.1.3.1:2", "", "Links Table O_ADFCI", "EARoot/EA1/EA1/EA3/EA1/EA1707.html", "82.png", "E3862", "0", "", "Artifact0","{EBCD3757-B2A5-4b9b-B7FF-195E6DA753C6}");
-tocTab[tocTab.length] = new Array("0.1.1.3.1:3", "", "Links Table O_ADFDS", "EARoot/EA1/EA1/EA3/EA1/EA1708.html", "82.png", "E3871", "0", "", "Artifact0","{D9A5994C-3686-4ba8-B419-6C814C165CDC}");
-tocTab[tocTab.length] = new Array("0.1.1.3.1:4", "", "Links Table O_ADFLO", "EARoot/EA1/EA1/EA3/EA1/EA1709.html", "82.png", "E3860", "0", "", "Artifact0","{4468C8E3-BB3D-4a3f-876A-E1634CAD03D4}");
-tocTab[tocTab.length] = new Array("0.1.1.3.1:5", "", "Links Table O_ADFPART", "EARoot/EA1/EA1/EA3/EA1/EA1710.html", "82.png", "E3861", "0", "", "Artifact0","{B52B00E3-9EB3-4213-B4A3-CE5622A4A8BB}");

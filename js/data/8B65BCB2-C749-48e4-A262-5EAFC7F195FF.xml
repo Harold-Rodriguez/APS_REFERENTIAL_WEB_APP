@@ -1,2 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1:1", "", "I532_P_CORE FULL SCHEMA", "EARoot/EA1/EA1.html", "177.png", "108", "0", "", "Object diagram0","{70605E04-96DB-40bb-B2B9-8D098104C2BB}");
-tocTab[tocTab.length] = new Array("0.1.1", "1", "I532_P_CORE", "EARoot/EA1/EA1/EA8.html", "4.png", "", "", "{B732C7DF-43FD-45ef-BF0D-538E6EB4A62D}", "Package");
