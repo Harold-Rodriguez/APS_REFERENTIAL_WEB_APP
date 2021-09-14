@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.2:1", "", "O_ADF%", "EARoot/EA1/EA1/EA2/EA47.html", "175.png", "110", "0", "", "Logical diagram0","{BF81F5FB-F6AE-4b5d-BA90-4400C8384E55}");
-tocTab[tocTab.length] = new Array("0.1.1.2.1", "1", "O_ADFASSY", "EARoot/EA1/EA1/EA2/EA1/EA59.html", "4.png", "", "", "{B64F00EE-21F9-4d1e-9EA1-8D85444C232E}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2.2", "1", "O_ADFCI", "EARoot/EA1/EA1/EA2/EA2/EA70.html", "4.png", "", "", "{DBCA157B-FFE7-4b70-8A37-53A7AB317057}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2.3", "1", "O_ADFDS", "EARoot/EA1/EA1/EA2/EA3/EA75.html", "4.png", "", "", "{DE6B9D8F-D040-4912-85EF-B128BD01DEAB}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2.4", "1", "O_ADFLO", "EARoot/EA1/EA1/EA2/EA4/EA80.html", "4.png", "", "", "{60E2D47E-EC07-42f6-B94C-FBFB1B8ABE07}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2.5", "1", "O_ADFPART", "EARoot/EA1/EA1/EA2/EA5/EA85.html", "4.png", "", "", "{FCA6D521-2960-488d-ACE7-260DCCD2812F}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.2.6", "1", "O_PRESTUDY", "EARoot/EA1/EA1/EA2/EA6/EA90.html", "4.png", "", "", "{4DF1A443-61C7-4b5a-9DCE-AACC83B3702E}", "Package");

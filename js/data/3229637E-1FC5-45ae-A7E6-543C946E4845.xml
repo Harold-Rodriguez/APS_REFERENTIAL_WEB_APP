@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.11.5:1", "", "O_ECA_AC_SECTION", "EARoot/EA1/EA1/EA11/EA5/EA1048.html", "175.png", "523", "0", "", "Logical diagram0","{BD65A712-CC8E-4c80-9F76-1BAC0B96989F}");
-tocTab[tocTab.length] = new Array("0.1.1.11.5.1", "1", "Inherited Tables O_ECA_AC_SECTION", "EARoot/EA1/EA1/EA11/EA5/EA1/EA1057.html", "4.png", "", "", "{B9251EA6-3128-4d90-95C9-40AFB5DE02B7}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.11.5.2", "1", "Table Links O_ECA_AC_SECTION", "EARoot/EA1/EA1/EA11/EA5/EA2/EA1062.html", "4.png", "", "", "{FFEFC3B3-98C6-4370-91A1-21D3DFBA2C45}", "Package");

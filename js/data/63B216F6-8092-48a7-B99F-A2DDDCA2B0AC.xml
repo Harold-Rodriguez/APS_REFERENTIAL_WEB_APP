@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.3.3:1", "", "Inherited Tables O_ADAPCI", "EARoot/EA1/EA3/EA3/EA2645.html", "82.png", "E7388", "0", "", "Artifact0","{157DC10B-3023-4ce7-AD0F-5738B0E7CDDA}");
-tocTab[tocTab.length] = new Array("0.1.3.3:2", "", "Inherited Tables O_ADAPDS", "EARoot/EA1/EA3/EA3/EA2646.html", "82.png", "E7393", "0", "", "Artifact0","{BAE8F48B-775D-4976-A4D2-9C5CDA0226CE}");
-tocTab[tocTab.length] = new Array("0.1.3.3:3", "", "Inherited Tables O_ADAPLO", "EARoot/EA1/EA3/EA3/EA2647.html", "82.png", "E7397", "0", "", "Artifact0","{039DF6F6-DA6C-48bd-832D-7227984C661F}");
-tocTab[tocTab.length] = new Array("0.1.3.3:4", "", "Table Links O_ADAPCI", "EARoot/EA1/EA3/EA3/EA2648.html", "82.png", "E3886", "0", "", "Artifact0","{6CF2C707-5536-44ec-9E71-DD1E9929A403}");
-tocTab[tocTab.length] = new Array("0.1.3.3:5", "", "Table Links O_ADAPDS", "EARoot/EA1/EA3/EA3/EA2649.html", "82.png", "E3888", "0", "", "Artifact0","{838FC6FE-BB39-47d5-B38F-A152DBC490D2}");
-tocTab[tocTab.length] = new Array("0.1.3.3:6", "", "Table Links O_ADAPLO", "EARoot/EA1/EA3/EA3/EA2650.html", "82.png", "E3889", "0", "", "Artifact0","{581C152A-7FCB-4bd5-B460-E10C73F21DD6}");
-tocTab[tocTab.length] = new Array("0.1.3.3:7", "", "Tables O_ADAP%", "EARoot/EA1/EA3/EA3/EA2651.html", "25.png", "E3843", "0", "", "Object0","{935A2AF7-5442-4096-B2F5-142F7D1C1536}");

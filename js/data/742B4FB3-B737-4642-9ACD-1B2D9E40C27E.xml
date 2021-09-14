@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.3.1:1", "", "Inherited Tables O_DMUQUERY", "EARoot/EA1/EA3/EA1/EA2630.html", "82.png", "E7699", "0", "", "Artifact0","{E65ECAF8-3C35-419e-83E7-DC7D21623B5C}");
-tocTab[tocTab.length] = new Array("0.1.3.1:2", "", "Inherited Tables O_ECA_AC_SECTION", "EARoot/EA1/EA3/EA1/EA2631.html", "82.png", "E7722", "0", "", "Artifact0","{99BE567A-6853-45d2-86D1-C9EE298DAA45}");
-tocTab[tocTab.length] = new Array("0.1.3.1:3", "", "Inherited Tables O_MCH", "EARoot/EA1/EA3/EA1/EA2632.html", "82.png", "E7737", "0", "", "Artifact0","{0D4D58E8-E68F-4708-A9D0-20D7DAE6F926}");
-tocTab[tocTab.length] = new Array("0.1.3.1:4", "", "Table Links O_DMUQUERY", "EARoot/EA1/EA3/EA1/EA2633.html", "82.png", "E7692", "0", "", "Artifact0","{1F6CCBC6-5B42-486e-9C79-0A18DCAD55C3}");
-tocTab[tocTab.length] = new Array("0.1.3.1:5", "", "Table Links O_ECA_AC_SECTION", "EARoot/EA1/EA3/EA1/EA2634.html", "82.png", "E7721", "0", "", "Artifact0","{9C33D4A0-9D99-420e-B791-107E70C783B2}");
-tocTab[tocTab.length] = new Array("0.1.3.1:6", "", "Table Links O_MCH", "EARoot/EA1/EA3/EA1/EA2635.html", "82.png", "E7736", "0", "", "Artifact0","{8E98B600-A4F3-4ee9-81D9-3EADBF4A2AA2}");

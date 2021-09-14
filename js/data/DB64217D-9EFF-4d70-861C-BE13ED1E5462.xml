@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.6:1", "", "ELEC", "EARoot/EA1/EA1/EA6/EA330.html", "175.png", "468", "0", "", "Logical diagram0","{5B508B22-6642-4a9c-9B7B-0FEAA2FB19B4}");
-tocTab[tocTab.length] = new Array("0.1.1.6.1", "1", "O_ESDCI", "EARoot/EA1/EA1/EA6/EA1/EA341.html", "4.png", "", "", "{8B49DE8E-EE61-4089-8591-73B3A6FC2F99}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.2", "1", "O_ESDDS", "EARoot/EA1/EA1/EA6/EA2/EA346.html", "4.png", "", "", "{2CD9B2E4-255C-42e3-9961-1EFDE7D58958}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.3", "1", "O_ESDLO", "EARoot/EA1/EA1/EA6/EA3/EA351.html", "4.png", "", "", "{A790845E-B2DF-429c-BAF0-91BB4806E3C0}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.6.4", "1", "O_ESDOFFREQ", "EARoot/EA1/EA1/EA6/EA4/EA356.html", "4.png", "", "", "{6B599189-EC90-4846-A873-526D3F081E3A}", "Package");

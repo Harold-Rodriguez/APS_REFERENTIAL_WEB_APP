@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.9.2.5:1", "", "O_CADNODE", "EARoot/EA1/EA1/EA9/EA2/EA5/EA477.html", "175.png", "220", "0", "", "Logical diagram0","{A7B74384-EF32-4fc5-87A8-C193466608F7}");
-tocTab[tocTab.length] = new Array("0.1.1.9.2.5.1", "1", "Tables Links to O_CADNODE", "EARoot/EA1/EA1/EA9/EA2/EA5/EA1/EA490.html", "4.png", "", "", "{6ABF30C8-68CB-4d42-A224-037BEB2DA4B4}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.9.2.5.2", "1", "Inherited Tables O_CADNODE", "EARoot/EA1/EA1/EA9/EA2/EA5/EA2/EA499.html", "4.png", "", "", "{EBC47D8C-DF45-4472-B35A-3AA96C96C132}", "Package");
