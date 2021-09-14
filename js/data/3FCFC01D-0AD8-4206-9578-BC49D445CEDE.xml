@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.1.9.9:1", "", "O_IP", "EARoot/EA1/EA1/EA9/EA9/EA728.html", "175.png", "406", "0", "", "Logical diagram0","{6B20E1F4-2958-4a10-9A9B-CB1D871ABE9E}");
+tocTab[tocTab.length] = new Array("0.1.1.9.9.1", "1", "Table Links to O_IP", "EARoot/EA1/EA1/EA9/EA9/EA1/EA737.html", "4.png", "", "", "{EBCBD2B1-2C06-4c18-A119-C521F301C71D}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.9.9.2", "1", "Inherited Table O_IP", "EARoot/EA1/EA1/EA9/EA9/EA2/EA742.html", "4.png", "", "", "{490794CE-270E-4787-A252-D9D687464A00}", "Package");
